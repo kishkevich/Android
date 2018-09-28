@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homeWorks</string>
+    <string name="textView1">Hello Android</string>
+    <string name="textView2">Hello World</string>
+
+    <style name="textButton">Button</style>
+
+    <string name="title_activity_hw2">hw2</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hw1.Activity_hw1"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+   <Button
+       android:id="@+id/HW1"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:text="Home Work 1"
+       android:layout_gravity="center"
+       android:background="#e5f3ff"
+       android:padding="10dp"
+
+       />
+    <Button
+        android:id="@+id/HW2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Home Work 2"
+        android:layout_gravity="center"
+        android:background="#91a8b6"
+
+        />
+    <Button
+        android:id="@+id/HW3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Home Work 3"
+        android:layout_gravity="center"
+        android:background="#b4b5d3"
+
+        />
+
+
+
+
+
+</LinearLayout>
